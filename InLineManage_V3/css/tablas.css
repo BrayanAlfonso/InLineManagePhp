@@ -1,0 +1,37 @@
+
+.tabla1{
+
+    border: 1px solid black; /* Establece un borde sólido de 1 píxel de ancho en color negro */
+    border-collapse: collapse; /* Combina los bordes adyacentes en uno solo */
+    margin: 10px;
+    padding-left: 200px;
+    text-align: center;
+    width: 40%;
+    height: 10%;
+    margin-top: 50px;
+  }
+  .tabla2{
+    border: 1px solid black; /* Establece un borde sólido de 1 píxel de ancho en color negro */
+    border-collapse: collapse; /* Combina los bordes adyacentes en uno solo */
+    text-align: center;
+    width: 40%;
+    height: 10%;
+    margin-right: 725px;
+  }
+.seccion{
+  display: flex;
+  padding-left: 5%;
+
+}
+.titulo{
+  padding-left: 5%;
+}
+ .container{
+  height: 50%;
+ }
+ aside{
+  margin-left: 100px;
+ }
+
+
+  
